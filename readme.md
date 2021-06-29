@@ -46,7 +46,7 @@ Yoast SEO
    ![Screenshot (36)](https://user-images.githubusercontent.com/36106440/123547193-babce400-d757-11eb-90ff-ca460ea0e1d9.png)
    + Login username:'admin'   pass:'admin'
    ![Screenshot (39)](https://user-images.githubusercontent.com/36106440/123547282-0cfe0500-d758-11eb-83af-d1a06b0db2d8.png)
-   + activate all plugins
+   
 
 
 
